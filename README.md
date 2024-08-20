@@ -4,6 +4,7 @@
 - [Modern-Deedy](https://www.overleaf.com/latex/templates/modern-deedy/cxtjgrmpsrvh)
 - [Deedy CV](https://www.overleaf.com/latex/templates/deedy-cv/bjryvfsjdyxz)
 - [Hackerrank free best CV Builer](https://www.hackerrank.com/resume/)
+- [FAANGPath Simple Template](https://www.overleaf.com/latex/templates/faangpath-simple-template/npsfpdqnxmbc)
 
 
 ### Resources
