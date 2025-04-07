@@ -24,3 +24,4 @@
 
 ### Resources
 - [4 Tech Resume Templates That Will Make You Stand Out](https://ad17yakr.medium.com/4-tech-resume-templates-that-will-make-you-stand-out-1d33a7d2b675)
+- [Top 5 ChatGPT Prompts for Job Seekers!](https://www.youtube.com/watch?v=2uN8PTXMY5c)
